@@ -13,6 +13,8 @@ double Calculator::Calculate(double x, char oper, double y) {
 			return x / y;
 		case '%':
 			return fmod(x, y);
+		case '^':
+			return pow(x, y);
 		default:
 			return 0.0;
 	}

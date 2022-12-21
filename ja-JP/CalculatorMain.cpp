@@ -21,7 +21,7 @@ int main() {
 	
 	// ユーザーさんに挨拶し、指示を提供します
 	cout << "《ターミナルの電卓》" << endl << endl;
-	cout << "実行する演算を入力して下さい。\n形式：a+b | a-b | a*b | a/b | a%b" << endl;
+	cout << "実行する演算を入力して下さい。\n形式：a+b | a-b | a*b | a/b | a%b | a^b" << endl;
 	
 	// 計算を実行します
 	Calculator c;

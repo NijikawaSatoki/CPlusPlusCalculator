@@ -21,7 +21,7 @@ int main() {
 	
 	// Greets the user and provide instructions
 	cout << "Terminal Calculator" << endl << endl;
-	cout << "Please enter the operation you wish to execute:\nFormat: a+b | a-b | a*b | a/b | a%b" << endl;
+	cout << "Please enter the operation you wish to execute:\nFormat: a+b | a-b | a*b | a/b | a%b | a^b" << endl;
 	
 	// Perform calculations
 	Calculator c;
