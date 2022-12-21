@@ -14,3 +14,10 @@ For Clang users:\
 After the code is compiled with your compiler of choice, just enter into the terminal:\
 `$ ./Calculator`\
 Have fun doing math!
+## To-Do List
+- [ ] Add functionality for exponentiation calculations
+- [ ] Add functionality for square root and cube root calculations
+- [ ] Add functionality for floor and ceiling calculations
+- [ ] Add functionality for trigonometric calculations
+- [ ] Add functionality for calculating absolute value
+- [ ] Add more locales
