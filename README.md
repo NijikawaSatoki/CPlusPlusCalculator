@@ -5,7 +5,7 @@ It currently supports addition, subtraction, multiplication, division, and modul
 Simply grab the code files under your locale of choice and compile them into a functional executable.\
 **NOTE FOR CYGWIN AND MSYS2 USERS:** Unfortunately, the only locale that will work correctly is en-US, due to Windows having really terrible UTF-8 support in terminal shells.
 ### Compiling
-This code can be compiled with your compiler of choice. (You need to be in the directory where you place the code!)\
+This code can be compiled with your compiler of choice. (You need to be in the directory where you placed the code!)\
 For GCC users:\
 `$ g++ CalculatorMain.cpp Calculator.cpp -o Calculator -Wall`\
 For Clang users:\
