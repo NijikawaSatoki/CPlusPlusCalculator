@@ -1,5 +1,5 @@
 # CPlusPlusCalculator
-A multi-function calculator written in C++.\
+A multi-function calculator written in C++ designed to run in the terminal.\
 It currently supports addition, subtraction, multiplication, division, and modulus.
 ## Installation
 Simply grab the code files under your locale of choice and compile them into a functional executable.\
