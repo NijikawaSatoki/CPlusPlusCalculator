@@ -28,10 +28,10 @@ int main() {
 	while (true) {
 		cin >> x >> oper >> y;
 		if (oper == '/' && y == 0) {
-			cout << "error: ０で除算しようとしています！" << endl;
+			cout << "注意：０で除算しようとしています！" << endl;
 			return 0;
 		} else if (oper == '%' && y == 0) {
-			cout << "error: ０で除算しようとしています！" << endl;
+			cout << "注意：０で除算しようとしています！" << endl;
 			return 0;
 		} else {
 			result = c.Calculate(x, oper, y);
